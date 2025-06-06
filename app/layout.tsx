@@ -40,8 +40,8 @@ export default function RootLayout({
   return (
     <html lang="ja" suppressHydrationWarning>
       <head>
-        <GoogleAnalytics gaId="G-9VJHHWHGGE" />
-        <MicrosoftClarity clarityId="rjt0nn5vwh" />
+        <GoogleAnalytics gaId="xxxx" />
+        <MicrosoftClarity clarityId="xxxx" />
       </head>
       <body className={`${notoSansJP.variable} ${roboto.variable} font-sans`}>
         <ThemeProvider
