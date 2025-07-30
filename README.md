@@ -2,6 +2,10 @@
 
 サービス説明用のLP。
 
+## URL
+
+https://seitai-lp-65zo.vercel.app/
+
 ## 開発手順
 
 ### 前提
